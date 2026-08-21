@@ -1,0 +1,12 @@
+{
+  "name": "cajero-automatico",
+  "version": "0.0.1",
+  "description": "cajero automatico funiconal y listo para las nesesidades cotidianas",
+  "license": "ISC",
+  "author": "pablonavas",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
