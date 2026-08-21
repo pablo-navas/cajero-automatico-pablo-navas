@@ -9,6 +9,6 @@ const validateAccountNumber = (accNumber) => {
   if (cleaned.length < 5) {
     throw new Error('El número debe tener al menos 5 caracteres.');
   }
-  return cleaned};
+  return cleaned}
 
 module.exports = { validateAmount, validateAccountNumber };
